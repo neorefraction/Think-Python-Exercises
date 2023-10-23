@@ -1,0 +1,5 @@
+# macOS internal files
+.DS_Store
+
+# Pycharm config files
+.idea
